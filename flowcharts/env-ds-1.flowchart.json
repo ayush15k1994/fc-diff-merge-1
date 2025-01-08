@@ -1,0 +1,72 @@
+{
+  "name": "env-ds-1",
+  "id": "-1",
+  "type": 0,
+  "content": {
+    "nodesMap": {
+      "fcn_start_0": {
+        "id": "fcn_start_0",
+        "content": "Start",
+        "nodeType": "start",
+        "branches": [
+          "fcn_envbaseddataset_0"
+        ]
+      },
+      "fcn_envbaseddataset_0": {
+        "id": "fcn_envbaseddataset_0",
+        "content": "Env-based Dataset",
+        "nodeType": "pathlabel",
+        "branches": [
+          "fcn_login_page_0"
+        ]
+      },
+      "fcn_login_page_0": {
+        "id": "fcn_login_page_0",
+        "content": "@login_page",
+        "nodeType": "action",
+        "branches": [
+          "fcn_filluserdetailsforlogin_0"
+        ]
+      },
+      "fcn_filluserdetailsforlogin_0": {
+        "id": "fcn_filluserdetailsforlogin_0",
+        "content": "fill $user details for login",
+        "nodeType": "action",
+        "branches": []
+      }
+    },
+    "positions": {
+      "fcn_start_0": {
+        "top": 150.0,
+        "left": 500.0
+      },
+      "fcn_envbaseddataset_0": {
+        "top": 211.0,
+        "left": 500.0
+      },
+      "fcn_login_page_0": {
+        "top": 270.0,
+        "left": 500.0
+      },
+      "fcn_filluserdetailsforlogin_0": {
+        "top": 329.0,
+        "left": 500.0
+      }
+    },
+    "settings": {
+      "maxProceedDepth": 100,
+      "maxProceedsForFirstDepth": 1,
+      "maxProceedsPerDepth": 1,
+      "maxPathRepititionsPerComboPath": 1,
+      "maxProceedsPerPath": 10000,
+      "maxToggles": 2,
+      "maxMatchingPaths": 3
+    },
+    "isPrimary": true,
+    "pathNames": [],
+    "flowChartUID": "fcUID_envds1_0",
+    "pathExecutionOrder": []
+  },
+  "enabled": true,
+  "parentId": ""
+}

@@ -1,0 +1,71 @@
+{
+  "name": "user",
+  "id": "-1",
+  "type": 1,
+  "content": {
+    "default": {
+      "attr_email_0": {
+        "name": "email",
+        "accessors": [
+          {
+            "id": "acc_textbox_email",
+            "name": "Email Input",
+            "accessor": "_textbox(\"email\")",
+            "messageAccessor": ""
+          }
+        ],
+        "type": "email",
+        "props": {
+          "names": [
+            "akmar1511"
+          ],
+          "domains": [
+            "gmail.com"
+          ],
+          "add-timestamp": "false"
+        },
+        "invalidData": [],
+        "validData": []
+      },
+      "attr_password_1": {
+        "name": "password",
+        "accessors": [
+          {
+            "id": "acc_password_password",
+            "name": "Password Input",
+            "accessor": "_password(\"password\")",
+            "messageAccessor": ""
+          }
+        ],
+        "type": "simpletext",
+        "props": {
+          "text": "P@ssw0rd",
+          "is-password": "true"
+        },
+        "invalidData": [],
+        "validData": []
+      },
+      "attr_search_2": {
+        "name": "search",
+        "accessors": [
+          {
+            "id": "acc_textbox_search",
+            "name": "Search Input",
+            "accessor": "_textbox(\"search\")",
+            "messageAccessor": ""
+          }
+        ],
+        "type": "text",
+        "props": {
+          "prefix": "search",
+          "min-length": "0",
+          "max-length": "0"
+        },
+        "invalidData": [],
+        "validData": []
+      }
+    }
+  },
+  "enabled": false,
+  "parentId": ""
+}

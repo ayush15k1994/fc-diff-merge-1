@@ -1,5 +1,12 @@
 {
   "description": "Diff Merge for Env-based Datasets",
   "title": "fc-diff-merge-1",
-  "content": {}
+  "content": {
+    "isCustomFunctionsFromScriptsDir": false,
+    "projectSuiteInfo": [],
+    "filters": {},
+    "executionOrder": [
+      "env-ds-1"
+    ]
+  }
 }
