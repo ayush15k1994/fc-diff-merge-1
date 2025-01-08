@@ -32,7 +32,11 @@
         "id": "fcn_filluserdetailsforlogin_0",
         "content": "fill $user details for login",
         "nodeType": "action",
-        "branches": []
+        "branches": [],
+        "dataSet": {
+          "dataSetName": "logins.csv",
+          "dataSetGroupName": "default"
+        }
       }
     },
     "positions": {
