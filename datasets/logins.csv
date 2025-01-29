@@ -6,5 +6,6 @@
 "","user-two@protonmail.com","password2","search-two-ing"
 "","user3@email.com","password3","search3"
 "def3","$user.email","$user.password","$user.search"
+"","user1@email.com","password","search-one"
 "","user-two@protonmail.com","password2","search-two"
-"","user3@email.com","pass-phrase-three","search3"
+"","user3@email.com","pass-phrase","search3"
