@@ -53,15 +53,6 @@
         "left": 500.0
       }
     },
-    "settings": {
-      "maxProceedDepth": 100,
-      "maxProceedsForFirstDepth": 1,
-      "maxProceedsPerDepth": 1,
-      "maxPathRepititionsPerComboPath": 1,
-      "maxProceedsPerPath": 10000,
-      "maxToggles": 2,
-      "maxMatchingPaths": 3
-    },
     "isPrimary": true,
     "pathNames": [],
     "flowChartUID": "fcUID_envds1_0",
