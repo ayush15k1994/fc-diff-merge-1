@@ -35,7 +35,7 @@
         "branches": [],
         "dataSet": {
           "dataSetName": "logins.csv",
-          "dataSetGroupName": "def2"
+          "dataSetGroupName": "default"
         }
       }
     },
