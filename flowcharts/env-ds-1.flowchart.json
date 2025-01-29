@@ -58,7 +58,21 @@
       }
     },
     "isPrimary": true,
-    "pathNames": [],
+    "pathNames": [
+      {
+        "pathKey": [
+          "fcn_envbaseddataset_0",
+          "fcn_login_page_0",
+          "fcn_filluserdetailsforlogin_0"
+        ],
+        "dependsPathUID": "17381503906190",
+        "dataSet": {
+          "dataSetName": "logins.csv",
+          "dataSetGroupName": "default"
+        },
+        "isValidationsEnabled": false
+      }
+    ],
     "flowChartUID": "fcUID_envds1_0",
     "pathExecutionOrder": []
   },
