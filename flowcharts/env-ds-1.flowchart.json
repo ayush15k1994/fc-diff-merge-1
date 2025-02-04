@@ -35,7 +35,7 @@
         "branches": [],
         "dataSet": {
           "dataSetName": "logins.csv",
-          "dataSetGroupName": "def3"
+          "dataSetGroupName": "def2"
         }
       }
     },
@@ -53,8 +53,8 @@
         "left": 500.0
       },
       "fcn_filluserdetailsforlogin_0": {
-        "top": 313.0,
-        "left": 923.0
+        "top": 364.0,
+        "left": 510.0
       }
     },
     "isPrimary": true,
